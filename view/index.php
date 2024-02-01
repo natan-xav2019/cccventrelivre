@@ -16,29 +16,77 @@
             <ul class="nav-itens">
                 <li><a href="#historia">Historia</a></li>
                 <li><a href="#">Mestres</a></li>
+                <li><a href="#atividades">Atividades</a></li>
                 <li><a href="#contatos">Contatos</a></li>
             </ul>
         </nav>
     </header>
     <main>
         <h1 class="titulo">Centro Cultural Capoeira Ventre Livre</h1>
-        <section id="historia">
+        <section id="div-main">
             <div class="img">
                 <img class="logo-grande" src="assets/img/Logo_cccventrelivre.jpg" alt="Logo Ventre Livre">
             </div>
+            <h2 class="subtitulo">Atividades</h2>
+            <div class="caixas">
+                <div id="historia" class="caixa">
+                    <h3>Capoeira</h3>
+                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Expedita natus, voluptas consequatur
+                        sunt
+                        magnam vero quaerat alias modi aliquam omnis deserunt ea recusandae harum assumenda. Tempore
+                        placeat eum
+                        rem dolorem.</p>
+                </div>
+                <div class="caixa">
+                    <h3>Jongo</h3>
+                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Expedita natus, voluptas consequatur
+                        sunt
+                        magnam vero quaerat alias modi aliquam omnis deserunt ea recusandae harum assumenda. Tempore
+                        placeat eum
+                        rem dolorem.</p>
+                </div>
+                <div class="caixa">
+                    <h3>Maculelê</h3>
+                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Expedita natus, voluptas consequatur
+                        sunt
+                        magnam vero quaerat alias modi aliquam omnis deserunt ea recusandae harum assumenda. Tempore
+                        placeat eum
+                        rem dolorem.</p>
+                </div>
+                <div class="caixa">
+                    <h3>Carimbó</h3>
+                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Expedita natus, voluptas consequatur
+                        sunt
+                        magnam vero quaerat alias modi aliquam omnis deserunt ea recusandae harum assumenda. Tempore
+                        placeat eum
+                        rem dolorem.</p>
+                </div>
+            </div>
         </section>
     </main>
-    <footer class="rodapé">
-        <ul class="redes-sociais">
-            <li>Facebook</li>
-            <li>Instagram</li>
-        </ul>
-        <ul>
-            <li>email</li>
-            <li>Assuntos gerais - cccventrelivre@gmail.com</li>
-            <li>Presidente do grupo - cccventrepresidente@gmail.com</li>
-            <li>Gerenrecia de eventos - cccventreevento@gmail.com</li>
-        </ul>
+    <footer>
+        <section id="div-footer">
+            <div class="informasoes">
+                <div class="informasao">
+                    <h3>Redes Sociais</h3>
+                    <ul>
+                        <li>Facebook</li>
+                        <li>Instagram</li>
+                        <li>linkedin</li>
+                    </ul>
+                </div>
+                <div class="informasao">
+                    <h3>Contados</h3>
+                    <ul>
+                        <li>Assuntos gerais - <a href="mailto:cccventrelivre@gmail.com">cccventrelivre@gmail.com</a></li>
+                        <li>Presidente do grupo - <a href="mailto:cccventrepresidente@gmail.com">cccventrepresidente@gmail.com</a></li>
+                        <li>Gerenrecia de eventos - <a href="mailto:cccventreevento@gmail.com">cccventreevento@gmail.com</a></li>
+                    </ul>
+                </div>
+
+
+            </div>
+        </section>
     </footer>
 </body>
 
